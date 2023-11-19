@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564437982228",
+    "project_id": "fuelease-763f1",
+    "storage_bucket": "fuelease-763f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564437982228:android:3d5a6ae2995296f3875b01",
+        "android_client_info": {
+          "package_name": "com.example.fuel_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtM0DKWKWEOz4H_hh-hSY_tEUaHe7RAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
